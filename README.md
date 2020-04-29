@@ -21,7 +21,7 @@ The Quiz app is a practice app that I used to practice the implementation of the
 
 ## Meta
 
-Enej Licina – YourEmail@example.com
+Enej Licina – enej.licina@gmail.com
 
 [swift-image]:https://img.shields.io/badge/swift-5.2-orange.svg
 [swift-url]: https://swift.org/
